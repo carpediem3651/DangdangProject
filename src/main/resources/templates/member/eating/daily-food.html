@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" 
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{inc/layout.html}"
+	>
+<head>
+
+</head>
+<body>
+	<section class="daily-food">
+        <h1 class="title">섭취한 식품들</h1>
+        <div class="add">
+            <a class="deco icon-add back:transparent open-popup-button" href="#">추가하기</a>
+        </div>
+        <div class="card">
+            <section class="meal breakfast">
+                <h1><a href="">아침</a></h1>
+                <div class="kcal-block">
+					<a class="open-popup-button" href="">
+                    	<span th:text="${breakfast.sumKcal}">600</span><span>칼로리</span>
+                    </a>
+                </div>
+                <div class="img-block">
+                    <a class="icon icon-bread icon-size:14 back:transparent" href=""></a>
+                </div>
+                <div class="drop-down">
+                    <a class="icon icon-chevron-bottom back:transparent icon-size:8" href=""></a>
+                </div>
+            </section>
+            <div class="breakfast-list">
+	            <section class="food-card" th:each="item : ${breakfastList}">
+	                <h1 class="food-name" th:text="${item.productName}">음식명</h1>
+	                <div class="food-kcal-block">
+	                    <span th:text="${item.productKcal}">600</span><span>칼로리</span>
+	                </div>
+	            </section>
+	        </div>
+        </div>
+
+        <div class="card">
+            <section class="meal lunch">
+                <h1><a href="">점심</a></h1>
+                <div class="kcal-block">
+					<a href="">
+                    	<span th:text="${lunch.sumKcal}">600</span><span>칼로리</span>
+                    </a>
+                </div>
+                <div class="img-block">
+                    <a class="icon icon-rice icon-size:13 back:transparent" href=""></a>
+                </div>
+                <div class="drop-down">
+                    <a class=" icon icon-chevron-bottom back:transparent icon-size:8" href=""></a>
+                </div>
+            </section>
+            <div class="lunch-list">
+	            <section class="food-card" th:each="item : ${lunchList}">
+	                <h1 class="food-name" th:text="${item.productName}">음식명</h1>
+	                <div class="food-kcal-block">
+	                    <span th:text="${item.productKcal}">600</span><span>칼로리</span>
+	                </div>
+	            </section>
+            </div>
+        </div>
+        
+        <div class="card">
+            <section class="meal dinner">
+                <h1><a href="">저녁</a></h1>
+                <div class="kcal-block">
+					<a href="">
+                    	<span th:text="${dinner.sumKcal}">600</span><span>칼로리</span>
+                    </a>
+                </div>
+                <div class="img-block">
+                    <a class="icon icon-chicken icon-size:14 back:transparent" href=""></a>
+                </div>
+                <div class="drop-down">
+                    <a class="icon icon-chevron-bottom back:transparent icon-size:8" href=""></a>
+                </div>
+            </section>
+            <div class="dinner-list">
+	            <section class="food-card" th:each="item : ${dinnerList}">
+	                <h1 class="food-name" th:text="${item.productName}">음식명</h1>
+	                <div class="food-kcal-block">
+	                    <span th:text="${item.productKcal}">600</span><span>칼로리</span>
+	                </div>
+	            </section>
+            </div>
+        </div>
+        
+        <div class="card">
+            <section class="meal snack">
+                <h1><a href="">간식</a></h1>
+                <div class="kcal-block">
+					<a href="">
+                    	<span th:text="${snack.sumKcal}">600</span><span>칼로리</span>
+                    </a>
+                </div>
+                <div class="img-block">
+                    <a class="icon icon-grape icon-size:13 back:transparent" href=""></a>
+                </div>
+                <div class="drop-down">
+                    <a class="icon icon-chevron-bottom back:transparent icon-size:8" href=""></a>
+                </div>
+            </section>
+            <div class="snack-list">
+	            <section class="food-card" th:each="item : ${snackList}">
+	                <h1 class="food-name" th:text="${item.productName}">음식명</h1>
+	                <div class="food-kcal-block">
+	                    <span th:text="${item.productKcal}">600</span><span>칼로리</span>
+	                </div>
+	            </section>
+            </div>
+        </div>
+    </section>
+    <div th:replace="~{/care/calendar::.popup-container}"></div>
+</body>
+</html>
