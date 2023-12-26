@@ -12,13 +12,9 @@
 
 
 ## 기술 소개
-### 사용언어 & 라이브러리
-<img src="https://img.shields.io/badge/java | 11-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript | ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/ajax-0B2C4A?style=for-the-badge&logo=ajax&logoColor=white"> <img src="https://img.shields.io/badge/jquery | 1.1-0769AD?style=for-the-badge&logo=jquery&logoColor=black">
 ### ERD
 * Table 19개
 <img src="https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/당당DB.jpg">
- 
 
 ### 개발환경
 <img src="https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png">
