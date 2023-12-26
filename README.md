@@ -18,9 +18,7 @@
 ### ERD
 * Table 19개
 <img src="https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/당당DB.jpg">
-
-### 사용 API
-* [네이버](https://developers.naver.com/docs/login/api/api.md) / [카카오 로그인 API](https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api) - 소셜 로그인 
+ 
 
 ### 개발환경
 <img src="https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png">
