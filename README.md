@@ -20,13 +20,13 @@
 ## 당당 프로젝트 멤버
 <img src="https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/%EB%A9%A4%EB%B2%84.png">
 
-### 후기
-가장 힘들었던 것
+## 후기
+###가장 힘들었던 것
 *기획
 *의사소통
 *기술
 
-가장 아쉽었던 것
+###가장 아쉽었던 것
 *적용
 *문서화
 
