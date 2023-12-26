@@ -1,7 +1,7 @@
 # 당당(식품정보 검색 및 건강관리 플랫폼)
 <img src = "https://user-images.githubusercontent.com/92190168/188597209-29fab3de-c43b-4de1-9432-3a18fb2689a5.jpeg" width="200" height="200">
 
-## 프로젝트 소개([시연 동영상](https://www.youtube.com/watch?v=TSOvF4NcVZM&t=952s&ab_channel=%EB%89%B4%EB%A0%89%EC%B2%98) / [시연 PT_pdf]<img src="https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/당당.pdf">
+## 프로젝트 소개([시연 동영상](https://www.youtube.com/watch?v=TSOvF4NcVZM&t=952s&ab_channel=%EB%89%B4%EB%A0%89%EC%B2%98) / [시연 PT_pdf](https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/%EB%8B%B9%EB%8B%B9.pdf)) 
 
 '당당'은 고혈압, 당뇨 등 성인병이 증가하는 시대에 식품의 영양성분과 사용자의 식습관을 파악하여 성인병을 막고자하는 프로그램입니다.
 
