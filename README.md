@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/ajax-0B2C4A?style=for-the-badge&logo=ajax&logoColor=white"> <img src="https://img.shields.io/badge/jquery | 1.1-0769AD?style=for-the-badge&logo=jquery&logoColor=black">
 ### ERD
 * Table 19개
-<img src = "https://user-images.githubusercontent.com/92190168/191060569-e33f5510-3d87-437d-933b-d8e18456a7cd.jpg">
+<img src="https://github.com/carpediem3651/prjImage/당당DB.png">
 
 ### 사용 API
 * [네이버](https://developers.naver.com/docs/login/api/api.md) / [카카오 로그인 API](https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api) - 소셜 로그인 
