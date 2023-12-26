@@ -1,4 +1,4 @@
-# EZ TOUR(식품정보 검색 및 건강관리 플랫폼)
+# 당당(식품정보 검색 및 건강관리 플랫폼)
 <img src = "https://user-images.githubusercontent.com/92190168/188597209-29fab3de-c43b-4de1-9432-3a18fb2689a5.jpeg" width="200" height="200">
 
 ## 프로젝트 소개([시연 동영상](https://www.youtube.com/watch?v=TSOvF4NcVZM&t=952s&ab_channel=%EB%89%B4%EB%A0%89%EC%B2%98) / [시연 PT_pdf](https://1drv.ms/b/s!As1u8o8CbMi7-QqNLrYyEKQw46AY?e=WlR2Yq))
@@ -38,17 +38,3 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/MySQL Workbench | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 
-
-## 팀원
-|[김도형](https://github.com/Daniel0915)|[남기혁](https://github.com/carpediem3651)|[서민재](https://github.com/ch4570)|[안혜경](https://github.com/HyeKyungAhn)|[이종현](https://github.com/leejonghyun93)|[장영욱](https://github.com/JYeongUk)|[홍선경](https://github.com/hoondal2)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src = "https://user-images.githubusercontent.com/92190168/188759836-6705b38b-d81b-4c4d-8fdb-d7fb694e5a79.png" width="130" height="180">|<img src = "https://user-images.githubusercontent.com/92190168/188760118-910e1e97-f46f-415a-adf5-87bcd80eee65.png" width="140" height="180">|<img src = "https://user-images.githubusercontent.com/92190168/188760197-91439a47-dd70-4a2d-9d95-5ba2de75ff1a.png" width="140" height="180">|<img src = "https://user-images.githubusercontent.com/92190168/188760253-cf202158-d098-4546-8423-69ef708fb62d.png" width="140" height="180">|<img src = "https://user-images.githubusercontent.com/92190168/188760327-9cba80b2-e1a2-432a-b6f6-8df51f3f4b3c.png" width="140" height="180">|<img src = "https://user-images.githubusercontent.com/92190168/188760413-b1651f46-00be-4858-bd96-332531e264e1.png" width="140" height="180">|<img src = "https://user-images.githubusercontent.com/92190168/188760463-13a4f0dd-1c53-45cf-a617-369763a1a2c0.png" width="140" height="180">|
->*해당 프로젝트에 대한 이슈 문의 및 팀원들에게 연락하고 싶다면 이름 링크를 클릭해서 연락부탁드립니다.*
-## 프로젝트 세부 규모 표(기준일 : 2022.9.1)
-|언어|파일|공백|주석|코드|
-|:---:|:---:|:---:|:---:|:---:|
-|JAVA|164|2,432|1,097|9,628|
-|JSP|83|959|430|10,344|
-|CSS|46|1,259|365|6,630|
-|기타|33|358|114|2,406|
-|총합|326|5,008|2,006|28,825|
