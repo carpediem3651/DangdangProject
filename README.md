@@ -1,5 +1,5 @@
 # 당당(식품정보 검색 및 건강관리 플랫폼)
-<img src = "https://user-images.githubusercontent.com/92190168/188597209-29fab3de-c43b-4de1-9432-3a18fb2689a5.jpeg" width="200" height="200">
+<img src = "(https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/%EB%8B%B9%EB%8B%B9%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)">
 
 ## 프로젝트 소개([시연 동영상](https://www.youtube.com/watch?v=TSOvF4NcVZM&t=952s&ab_channel=%EB%89%B4%EB%A0%89%EC%B2%98) / [시연 PT_pdf](https://github.com/carpediem3651/DangdangProject/blob/main/prjImage/%EB%8B%B9%EB%8B%B9.pdf)) 
 
